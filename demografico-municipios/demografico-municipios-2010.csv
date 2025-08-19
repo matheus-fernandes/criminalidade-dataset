@@ -1,11 +1,4 @@
-Município,Total,Urbana,"Urbana
-na sede municipal","Total
-percentual","Urbana
-percentual","Urbana
-na sede municipal
-percentual","Área total
-Km2","Densidade demográfica da unidade territorial
-Hab/Km2"
+municipio,total,urbana,"urbana_na_sede_municipal","total_percentual","urbana_percentual","urbana_na_sede_municipal_percentual","area_total_km2","densidade_demografica_da_unidade_territorial_hab_km2"
 Adamantina,33.797,31.948,31.768,"100,00%","94,00%","94,00%","411,4","82,16"
 Adolfo,3.557,3.200,3.155,"100,00%","89,00%","88,00%","211,1","16,85"
 Aguaí,32.148,29.001,27.976,"100,00%","90,00%","87,00%","474,7","67,72"
